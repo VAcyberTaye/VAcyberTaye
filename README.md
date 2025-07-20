@@ -1,4 +1,31 @@
-## Hi there 👋
+<h1>Hi, I'm Donté! <br/></h1>
+  <a>Cybersecurity Professional</a> 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Project with Splunk](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📄 Certifications </h2>
+
+- [ISC2 CC: Certified in Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2>👥 Communities</h2>
+
+- ISC2 Member
+- Cyber Hub | Empirical Training
+- Pepsi Cybersecurity Advocacy & Awareness
+- Simply Cyber Group
+
+
+
+<h3> 🤳 Connect with me:</h3>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/taye_supreme/
+[linkedin]: https://www.linkedin.com/in/taye-chandler-53228a8a
 
 <!--
 **VAcyberTaye/VAcyberTaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
