@@ -8,7 +8,7 @@
 
 <h2>📄 Certifications </h2>
 
-- [ISC2 CC: Certified in Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [ISC2 CC: Certified in Cybersecurity](https://www.credly.com/badges/d8191da1-2427-4baa-a501-1a6aba1a8490/public_url)
 
 <h2>👥 Communities</h2>
 
