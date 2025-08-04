@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Project with PowerShell](https://github.com/VAcyberTaye/ActiveDirectoryLabWPowerShell.git)
   - [Active Directory Project with Splunk](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications </h2>
