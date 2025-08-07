@@ -3,6 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Honeypot Project]()
   - [Active Directory Project with PowerShell](https://github.com/VAcyberTaye/ActiveDirectoryLabWPowerShell.git)
   - [Active Directory Project with Splunk](https://github.com/joshmadakor1/Algorithms-Practice)
 
